@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "CopyNumberPlots"]
+	path = CopyNumberPlots
+	url = https://github.com/bernatgel/copynumberplots
+	shallow = true
+	registered = true
+[submodule "karyoploteR"]
+	path = karyoploteR
+	url = https://github.com/bernatgel/karyoploter
+	shallow = true
+	registered = true
