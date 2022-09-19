@@ -8,8 +8,3 @@
 	url = https://github.com/bernatgel/copynumberplots
 	shallow = true
 	registered = true
-[submodule "karyoploteR"]
-	path = karyoploteR
-	url = https://github.com/bernatgel/karyoploter
-	shallow = true
-	registered = true
