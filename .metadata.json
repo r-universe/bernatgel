@@ -1,8 +1,8 @@
 [
   {
-    "package": "karyoploteR"
+    "package": "CopyNumberPlots"
   },
   {
-    "package": "CopyNumberPlots"
+    "package": "karyoploteR"
   }
 ]
